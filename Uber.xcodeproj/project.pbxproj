@@ -36,6 +36,18 @@
 		840C65701C19C42E008ACDF4 /* SourceLocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 840C65621C19C42E008ACDF4 /* SourceLocation.swift */; settings = {ASSET_TAGS = (); }; };
 		840C65711C19C42E008ACDF4 /* View+SnapKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 840C65631C19C42E008ACDF4 /* View+SnapKit.swift */; settings = {ASSET_TAGS = (); }; };
 		840C65721C19C42E008ACDF4 /* ViewController+SnapKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 840C65641C19C42E008ACDF4 /* ViewController+SnapKit.swift */; settings = {ASSET_TAGS = (); }; };
+		840C65741C19CBA8008ACDF4 /* Global.swift in Sources */ = {isa = PBXBuildFile; fileRef = 840C65731C19CBA8008ACDF4 /* Global.swift */; settings = {ASSET_TAGS = (); }; };
+		840C65761C19D00D008ACDF4 /* DCUrlDefine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 840C65751C19D00D008ACDF4 /* DCUrlDefine.swift */; settings = {ASSET_TAGS = (); }; };
+		840C657E1C19E5C9008ACDF4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 840C657D1C19E5C9008ACDF4 /* LaunchScreen.storyboard */; settings = {ASSET_TAGS = (); }; };
+		840C65871C1A597F008ACDF4 /* UIBarbuttonItem + Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 840C65831C1A597F008ACDF4 /* UIBarbuttonItem + Extension.swift */; settings = {ASSET_TAGS = (); }; };
+		840C65881C1A597F008ACDF4 /* UIButton+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 840C65841C1A597F008ACDF4 /* UIButton+Extension.swift */; settings = {ASSET_TAGS = (); }; };
+		840C65891C1A597F008ACDF4 /* UILable+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 840C65851C1A597F008ACDF4 /* UILable+Extension.swift */; settings = {ASSET_TAGS = (); }; };
+		840C658A1C1A597F008ACDF4 /* UIView+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 840C65861C1A597F008ACDF4 /* UIView+Extension.swift */; settings = {ASSET_TAGS = (); }; };
+		840C658D1C1A5E4D008ACDF4 /* welcome_video.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 840C658C1C1A5E4D008ACDF4 /* welcome_video.mp4 */; settings = {ASSET_TAGS = (); }; };
+		840C658F1C1A6F0D008ACDF4 /* DCLocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 840C658E1C1A6F0D008ACDF4 /* DCLocation.swift */; settings = {ASSET_TAGS = (); }; };
+		840C65911C1ABEDF008ACDF4 /* DCRegisterPage.xib in Resources */ = {isa = PBXBuildFile; fileRef = 840C65901C1ABEDF008ACDF4 /* DCRegisterPage.xib */; settings = {ASSET_TAGS = (); }; };
+		840C65931C1ACEEE008ACDF4 /* DCSelectCountryPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 840C65921C1ACEEE008ACDF4 /* DCSelectCountryPage.swift */; settings = {ASSET_TAGS = (); }; };
+		84289E1D1C1AD90400009E6B /* DCCountryInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84289E1C1C1AD90400009E6B /* DCCountryInfo.swift */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -71,6 +83,18 @@
 		840C65621C19C42E008ACDF4 /* SourceLocation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SourceLocation.swift; sourceTree = "<group>"; };
 		840C65631C19C42E008ACDF4 /* View+SnapKit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "View+SnapKit.swift"; sourceTree = "<group>"; };
 		840C65641C19C42E008ACDF4 /* ViewController+SnapKit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ViewController+SnapKit.swift"; sourceTree = "<group>"; };
+		840C65731C19CBA8008ACDF4 /* Global.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Global.swift; sourceTree = "<group>"; };
+		840C65751C19D00D008ACDF4 /* DCUrlDefine.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DCUrlDefine.swift; sourceTree = "<group>"; };
+		840C657D1C19E5C9008ACDF4 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
+		840C65831C1A597F008ACDF4 /* UIBarbuttonItem + Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIBarbuttonItem + Extension.swift"; sourceTree = "<group>"; };
+		840C65841C1A597F008ACDF4 /* UIButton+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIButton+Extension.swift"; sourceTree = "<group>"; };
+		840C65851C1A597F008ACDF4 /* UILable+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UILable+Extension.swift"; sourceTree = "<group>"; };
+		840C65861C1A597F008ACDF4 /* UIView+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIView+Extension.swift"; sourceTree = "<group>"; };
+		840C658C1C1A5E4D008ACDF4 /* welcome_video.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = welcome_video.mp4; sourceTree = "<group>"; };
+		840C658E1C1A6F0D008ACDF4 /* DCLocation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DCLocation.swift; sourceTree = "<group>"; };
+		840C65901C1ABEDF008ACDF4 /* DCRegisterPage.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = DCRegisterPage.xib; sourceTree = "<group>"; };
+		840C65921C1ACEEE008ACDF4 /* DCSelectCountryPage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DCSelectCountryPage.swift; sourceTree = "<group>"; };
+		84289E1C1C1AD90400009E6B /* DCCountryInfo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DCCountryInfo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +112,7 @@
 			isa = PBXGroup;
 			children = (
 				840C5D221C19AEA6008ACDF4 /* Uber */,
+				840C657C1C19E5A8008ACDF4 /* xib */,
 				840C65381C19B469008ACDF4 /* Global */,
 				840C65391C19B470008ACDF4 /* ThirdSDK */,
 				840C5D211C19AEA6008ACDF4 /* Products */,
@@ -119,6 +144,7 @@
 			isa = PBXGroup;
 			children = (
 				840C652D1C19B11A008ACDF4 /* Media.xcassets */,
+				840C658B1C1A5E4D008ACDF4 /* Video */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -126,6 +152,7 @@
 		840C652F1C19B44D008ACDF4 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				840C65821C1A597F008ACDF4 /* Extension */,
 				840C65301C19B44D008ACDF4 /* Model */,
 				840C65311C19B44D008ACDF4 /* Operation */,
 				840C65321C19B44D008ACDF4 /* View */,
@@ -138,6 +165,7 @@
 			children = (
 				840C653A1C19B495008ACDF4 /* DCBaseInfo.swift */,
 				840C653C1C19B4B4008ACDF4 /* DCUserInfo.swift */,
+				84289E1C1C1AD90400009E6B /* DCCountryInfo.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -174,6 +202,7 @@
 			children = (
 				840C65351C19B45C008ACDF4 /* AppDelegate.swift */,
 				840C65531C19BEF7008ACDF4 /* DCDefine.swift */,
+				840C65751C19D00D008ACDF4 /* DCUrlDefine.swift */,
 			);
 			path = Define;
 			sourceTree = "<group>";
@@ -189,6 +218,8 @@
 		840C65381C19B469008ACDF4 /* Global */ = {
 			isa = PBXGroup;
 			children = (
+				840C65731C19CBA8008ACDF4 /* Global.swift */,
+				840C658E1C1A6F0D008ACDF4 /* DCLocation.swift */,
 			);
 			name = Global;
 			path = Uber/Global;
@@ -210,6 +241,7 @@
 				840C654D1C19B85A008ACDF4 /* DCLoginPage.swift */,
 				840C654F1C19B86A008ACDF4 /* DCRegisterPage.swift */,
 				840C65511C19B879008ACDF4 /* DCBindPayPage.swift */,
+				840C65921C1ACEEE008ACDF4 /* DCSelectCountryPage.swift */,
 			);
 			path = Page;
 			sourceTree = "<group>";
@@ -234,6 +266,35 @@
 				840C65641C19C42E008ACDF4 /* ViewController+SnapKit.swift */,
 			);
 			path = SnapKit;
+			sourceTree = "<group>";
+		};
+		840C657C1C19E5A8008ACDF4 /* xib */ = {
+			isa = PBXGroup;
+			children = (
+				840C657D1C19E5C9008ACDF4 /* LaunchScreen.storyboard */,
+				840C65901C1ABEDF008ACDF4 /* DCRegisterPage.xib */,
+			);
+			name = xib;
+			path = Uber/xib;
+			sourceTree = "<group>";
+		};
+		840C65821C1A597F008ACDF4 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				840C65831C1A597F008ACDF4 /* UIBarbuttonItem + Extension.swift */,
+				840C65841C1A597F008ACDF4 /* UIButton+Extension.swift */,
+				840C65851C1A597F008ACDF4 /* UILable+Extension.swift */,
+				840C65861C1A597F008ACDF4 /* UIView+Extension.swift */,
+			);
+			path = Extension;
+			sourceTree = "<group>";
+		};
+		840C658B1C1A5E4D008ACDF4 /* Video */ = {
+			isa = PBXGroup;
+			children = (
+				840C658C1C1A5E4D008ACDF4 /* welcome_video.mp4 */,
+			);
+			path = Video;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -295,7 +356,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				840C657E1C19E5C9008ACDF4 /* LaunchScreen.storyboard in Resources */,
 				840C656D1C19C42E008ACDF4 /* Info.plist in Resources */,
+				840C658D1C1A5E4D008ACDF4 /* welcome_video.mp4 in Resources */,
+				840C65911C1ABEDF008ACDF4 /* DCRegisterPage.xib in Resources */,
 				840C652E1C19B11A008ACDF4 /* Media.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -314,7 +378,9 @@
 				840C65501C19B86A008ACDF4 /* DCRegisterPage.swift in Sources */,
 				840C653B1C19B495008ACDF4 /* DCBaseInfo.swift in Sources */,
 				840C65651C19C42E008ACDF4 /* Constraint.swift in Sources */,
+				840C65891C1A597F008ACDF4 /* UILable+Extension.swift in Sources */,
 				840C656A1C19C42E008ACDF4 /* ConstraintRelation.swift in Sources */,
+				840C658F1C1A6F0D008ACDF4 /* DCLocation.swift in Sources */,
 				840C65691C19C42E008ACDF4 /* ConstraintMaker.swift in Sources */,
 				840C653D1C19B4B4008ACDF4 /* DCUserInfo.swift in Sources */,
 				840C656F1C19C42E008ACDF4 /* SnapKit.swift in Sources */,
@@ -327,12 +393,19 @@
 				840C656C1C19C42E008ACDF4 /* EdgeInsets.swift in Sources */,
 				840C656E1C19C42E008ACDF4 /* LayoutConstraint.swift in Sources */,
 				840C65361C19B45C008ACDF4 /* AppDelegate.swift in Sources */,
+				840C65741C19CBA8008ACDF4 /* Global.swift in Sources */,
+				840C65881C1A597F008ACDF4 /* UIButton+Extension.swift in Sources */,
 				840C65541C19BEF7008ACDF4 /* DCDefine.swift in Sources */,
+				840C658A1C1A597F008ACDF4 /* UIView+Extension.swift in Sources */,
+				840C65871C1A597F008ACDF4 /* UIBarbuttonItem + Extension.swift in Sources */,
 				840C65411C19B54D008ACDF4 /* DCLogin.swift in Sources */,
 				840C65471C19B69B008ACDF4 /* DCBaseController.swift in Sources */,
 				840C653F1C19B510008ACDF4 /* DCBaseOperation.swift in Sources */,
 				840C654C1C19B713008ACDF4 /* DCGuidePage.swift in Sources */,
+				840C65931C1ACEEE008ACDF4 /* DCSelectCountryPage.swift in Sources */,
+				84289E1D1C1AD90400009E6B /* DCCountryInfo.swift in Sources */,
 				840C65681C19C42E008ACDF4 /* ConstraintItem.swift in Sources */,
+				840C65761C19D00D008ACDF4 /* DCUrlDefine.swift in Sources */,
 				840C65711C19C42E008ACDF4 /* View+SnapKit.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -447,6 +520,107 @@
 			};
 			name = Release;
 		};
+		840C65771C19D32E008ACDF4 /* AppStore */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = AppStore;
+		};
+		840C65781C19D32E008ACDF4 /* AppStore */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = BrandAsset;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				INFOPLIST_FILE = Uber/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				OTHER_SWIFT_FLAGS = "-D AppStore";
+				PRODUCT_BUNDLE_IDENTIFIER = cn.name.Uber;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = AppStore;
+		};
+		840C65791C19D349008ACDF4 /* AdHoc */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = AdHoc;
+		};
+		840C657A1C19D349008ACDF4 /* AdHoc */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = BrandAsset;
+				INFOPLIST_FILE = Uber/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				OTHER_SWIFT_FLAGS = "-D DEBUG";
+				PRODUCT_BUNDLE_IDENTIFIER = cn.name.Uber;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = AdHoc;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -455,6 +629,8 @@
 			buildConfigurations = (
 				840C5D301C19AEA6008ACDF4 /* Debug */,
 				840C5D311C19AEA6008ACDF4 /* Release */,
+				840C65791C19D349008ACDF4 /* AdHoc */,
+				840C65771C19D32E008ACDF4 /* AppStore */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -464,8 +640,11 @@
 			buildConfigurations = (
 				840C5D331C19AEA6008ACDF4 /* Debug */,
 				840C5D341C19AEA6008ACDF4 /* Release */,
+				840C657A1C19D349008ACDF4 /* AdHoc */,
+				840C65781C19D32E008ACDF4 /* AppStore */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

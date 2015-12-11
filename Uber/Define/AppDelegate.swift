@@ -18,13 +18,12 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         self.window = UIWindow(frame: UIScreen.mainScreen().bounds)
         
-        self.window?.rootViewController = DCBaseController()
+        let nav = UINavigationController(rootViewController: DCRegisterPage())
+        self.window?.rootViewController = GuidePage()
         
         self.window?.makeKeyAndVisible()
         
-        
-        DCLog("111");
-    
+        UINavigationBar.appearance().tintColor = UIColor.lightGrayColor()
         return true;
     }
 
